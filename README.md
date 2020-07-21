@@ -1,2 +1,2 @@
 # react-init
-Configuração da estrutura básica de um projeto ReatJS
+Configuração da estrutura básica de um projeto ReactJS
